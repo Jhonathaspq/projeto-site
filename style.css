@@ -4,13 +4,43 @@
 }
 
 body{
-    background-color: rgb(174, 132, 214);
+    background-color: #3b5c9080;
 
 }
 
 main{
     background-color: white;
-    width: 500px;
+    width: 590px;
     margin: auto;
     box-shadow: 3px 3px 5px;
+}
+
+img.lado{
+    float: right;
+}
+
+iframe{
+    margin-left: 15px;
+}
+
+.tamimg{
+    width: 80px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: #3b5c90;
+}
+
+a{
+   text-decoration: none;
+   color: red;
+}
+
+.logo{
+    margin: auto;
+    margin-top: -100px;
+    display: block;
+    width: 300px;
 }
